@@ -1,5 +1,5 @@
 //in appjs to use compoents you only has to import the index.js and use compoents
-import Header from "./Header";
+import Header from "./Header.jsx";
 import Footer from "./Footer";
 import Logo from "./Logo";
 import Container from "./Container";
