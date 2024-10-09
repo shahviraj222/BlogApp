@@ -1,6 +1,6 @@
 # BlogApp
 
-BlogApp is a full-stack blogging platform that allows users to create, read, update, and delete articles. Built with React.js and a robust backend, it provides a seamless experience for writers and readers alike.
+BlogApp is a full-stack blogging platform that allows users to create, read, update, and delete articles. Built wth React.js and a robust backend, it provides a seamless experience for writers and readers alike.
 
 ## Deployed 
 This application is deployed on Netlify. You can view the live version of the site [here](https://66f58f8b92c9be079b088cdb--blogapplication1223.netlify.app/)
