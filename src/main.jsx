@@ -1,12 +1,13 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import App from './App.jsx'
-import './index.css'
 import { Provider } from 'react-redux'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import store from './store/store.js'
-import { AuthLayout, Login } from './components/index.js'
 
+// Components
+import './index.css'
+import { AuthLayout, Login } from './components/index.js'
+import App from './App.jsx'
 import SingUp from './pages/Signup.jsx'
 import Home from './pages/Home.jsx'
 import AllPosts from "./pages/AllPosts";
@@ -34,9 +35,7 @@ const router = createBrowserRouter([
       {
         path: "/signup",
         element: (
-
           <SingUp />
-
         )
       },
       {
