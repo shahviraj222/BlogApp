@@ -63,19 +63,27 @@ test@123
 Video Demo:
 https://drive.google.com/file/d/1HuSYmJAngtlXF2jWZNai3KMBatS58SjV/view?usp=sharing
 
+Add Post :
+
+Generating Content Using Generative AI
+
+![alt text](<ss/Screenshot 2024-10-09 at 7.28.29 PM-1.png>)
+![alt text](<ss/Screenshot 2024-10-09 at 7.28.42 PM-1.png>) 
+![alt text](<ss/Screenshot 2024-10-09 at 7.28.59 PM-1.png>)
+
+![alt text](<ss/Screenshot 2024-08-18 at 1.22.53 PM.png>)
+
 For Guest User:
 
-![alt text](<Screenshot 2024-08-18 at 1.49.22 PM.png>)
+![alt text](<ss/Screenshot 2024-08-18 at 1.49.22 PM.png>)
 
 For Login User:
 
-![alt text](<Screenshot 2024-08-18 at 1.35.15 PM.png>)
+![alt text](<ss/Screenshot 2024-08-18 at 1.35.15 PM.png>)
 
 Edit Delete Post For Authenticated User:
 
-![alt text](<Screenshot 2024-08-18 at 1.35.40 PM.png>)
+![alt text](<ss/Screenshot 2024-08-18 at 1.35.40 PM.png>)
 
-Add Post :
 
-![alt text](<Screenshot 2024-08-18 at 1.22.53 PM.png>)
 
