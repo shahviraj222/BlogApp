@@ -59,6 +59,7 @@ test@123
 
 5)appwrite (Backend Provider OpenSource)
 
+6)Generative AI For Content Suggesting
 
 Video Demo:
 https://drive.google.com/file/d/1HuSYmJAngtlXF2jWZNai3KMBatS58SjV/view?usp=sharing
